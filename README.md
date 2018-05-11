@@ -7,7 +7,7 @@ Sets of LaTex course notes taken for various classes at McGill University in the
   - Co-author: Binyuan Sun
 - MATH 247 *Honors Applied Linear Algebra* 
   - Prof. Axel Hundemer, Winter 2018
-  - Co-author: Daniela Breitman
+  - Co-author: [Daniela Breitman](https://github.com/Danielabreitman)
   
 **Condensed review sheets**: 
 - To be added.
