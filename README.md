@@ -10,4 +10,5 @@ Sets of LaTex course notes taken for various classes at McGill University in the
   - Co-author: [Daniela Breitman](https://github.com/Danielabreitman)
   
 **Condensed review sheets**: 
-- To be added.
+- COMP 252 *Honors Algorithms and Data Structures* (incomplete)
+  - Prof. Luc Devroye, Winter 2018
